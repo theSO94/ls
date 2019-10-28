@@ -76,7 +76,10 @@ sayHello.call(alice);
 //8
 //2.cd ../../public
 function confilct(){
-	return "something else  sdsdsd";
+}
+
+function ccc(){
+
 }
 
 
