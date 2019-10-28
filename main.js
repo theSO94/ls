@@ -76,7 +76,8 @@ sayHello.call(alice);
 //8
 //2.cd ../../public
 function conflict(){
-	return 'task';
+	var x = 10;
+	return 'this';
 }
 
 
