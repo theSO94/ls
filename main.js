@@ -75,13 +75,12 @@ sayHello.call(alice);
 
 //8
 //2.cd ../../public
+
 function conflicte(){
 	var x = 10;
 	return 'this';
+
+function confilct(){
+	return "something else";
+
 }
-
-
-
-
-
-
